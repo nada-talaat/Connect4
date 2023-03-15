@@ -1,0 +1,88 @@
+C:\Users\Kimo Store\source\repos\connect 4 project\bin\Debug\connect 4 project.exe.config
+C:\Users\Kimo Store\source\repos\connect 4 project\bin\Debug\connect 4 project.exe
+C:\Users\Kimo Store\source\repos\connect 4 project\bin\Debug\connect 4 project.pdb
+C:\Users\Kimo Store\source\repos\connect 4 project\obj\Debug\connect 4 project.csproj.AssemblyReference.cache
+C:\Users\Kimo Store\source\repos\connect 4 project\obj\Debug\connect 4 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kimo Store\source\repos\connect 4 project\obj\Debug\connect_4_project.Form1.resources
+C:\Users\Kimo Store\source\repos\connect 4 project\obj\Debug\connect_4_project.Properties.Resources.resources
+C:\Users\Kimo Store\source\repos\connect 4 project\obj\Debug\connect 4 project.csproj.GenerateResource.cache
+C:\Users\Kimo Store\source\repos\connect 4 project\obj\Debug\connect 4 project.csproj.CoreCompileInputs.cache
+C:\Users\Kimo Store\source\repos\connect 4 project\obj\Debug\connect 4 project.exe
+C:\Users\Kimo Store\source\repos\connect 4 project\obj\Debug\connect 4 project.pdb
+D:\iti\advanced c#\project\connect 4 project\bin\Debug\connect 4 project.exe.config
+D:\iti\advanced c#\project\connect 4 project\bin\Debug\connect 4 project.exe
+D:\iti\advanced c#\project\connect 4 project\bin\Debug\connect 4 project.pdb
+D:\iti\advanced c#\project\connect 4 project\obj\Debug\connect 4 project.csproj.AssemblyReference.cache
+D:\iti\advanced c#\project\connect 4 project\obj\Debug\connect 4 project.csproj.SuggestedBindingRedirects.cache
+D:\iti\advanced c#\project\connect 4 project\obj\Debug\connect_4_project.Form1.resources
+D:\iti\advanced c#\project\connect 4 project\obj\Debug\connect_4_project.Properties.Resources.resources
+D:\iti\advanced c#\project\connect 4 project\obj\Debug\connect 4 project.csproj.GenerateResource.cache
+D:\iti\advanced c#\project\connect 4 project\obj\Debug\connect 4 project.csproj.CoreCompileInputs.cache
+D:\iti\advanced c#\project\connect 4 project\obj\Debug\connect 4 project.exe
+D:\iti\advanced c#\project\connect 4 project\obj\Debug\connect 4 project.pdb
+E:\connect 4 project\connect 4 project2\connect 4 project\bin\Debug\connect 4 project.exe.config
+E:\connect 4 project\connect 4 project2\connect 4 project\bin\Debug\connect 4 project.exe
+E:\connect 4 project\connect 4 project2\connect 4 project\bin\Debug\connect 4 project.pdb
+E:\connect 4 project\connect 4 project2\connect 4 project\obj\Debug\connect 4 project.csproj.AssemblyReference.cache
+E:\connect 4 project\connect 4 project2\connect 4 project\obj\Debug\connect 4 project.csproj.SuggestedBindingRedirects.cache
+E:\connect 4 project\connect 4 project2\connect 4 project\obj\Debug\connect_4_project.Form1.resources
+E:\connect 4 project\connect 4 project2\connect 4 project\obj\Debug\connect_4_project.Properties.Resources.resources
+E:\connect 4 project\connect 4 project2\connect 4 project\obj\Debug\connect 4 project.csproj.GenerateResource.cache
+E:\connect 4 project\connect 4 project2\connect 4 project\obj\Debug\connect 4 project.csproj.CoreCompileInputs.cache
+E:\connect 4 project\connect 4 project2\connect 4 project\obj\Debug\connect 4 project.exe
+E:\connect 4 project\connect 4 project2\connect 4 project\obj\Debug\connect 4 project.pdb
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\bin\Debug\connect 4 project.exe.config
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\bin\Debug\connect 4 project.exe
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\bin\Debug\connect 4 project.pdb
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\obj\Debug\connect 4 project.csproj.AssemblyReference.cache
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\obj\Debug\connect 4 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\obj\Debug\connect_4_project.Form1.resources
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\obj\Debug\connect_4_project.Properties.Resources.resources
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\obj\Debug\connect 4 project.csproj.GenerateResource.cache
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\obj\Debug\connect 4 project.csproj.CoreCompileInputs.cache
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\obj\Debug\connect 4 project.exe
+C:\Users\FreeComp\Downloads\FINAL\connect 4 project\obj\Debug\connect 4 project.pdb
+D:\connect4\Final (1)\connect 4 project\bin\Debug\connect 4 project.exe.config
+D:\connect4\Final (1)\connect 4 project\bin\Debug\connect 4 project.exe
+D:\connect4\Final (1)\connect 4 project\bin\Debug\connect 4 project.pdb
+D:\connect4\Final (1)\connect 4 project\obj\Debug\connect 4 project.csproj.AssemblyReference.cache
+D:\connect4\Final (1)\connect 4 project\obj\Debug\connect 4 project.csproj.SuggestedBindingRedirects.cache
+D:\connect4\Final (1)\connect 4 project\obj\Debug\connect_4_project.Form1.resources
+D:\connect4\Final (1)\connect 4 project\obj\Debug\connect_4_project.Properties.Resources.resources
+D:\connect4\Final (1)\connect 4 project\obj\Debug\connect 4 project.csproj.GenerateResource.cache
+D:\connect4\Final (1)\connect 4 project\obj\Debug\connect 4 project.csproj.CoreCompileInputs.cache
+D:\connect4\Final (1)\connect 4 project\obj\Debug\connect 4 project.exe
+D:\connect4\Final (1)\connect 4 project\obj\Debug\connect 4 project.pdb
+E:\connect 4 project\the end\connect 4 project\connect 4 project\obj\Debug\connect 4 project.csproj.AssemblyReference.cache
+E:\connect 4 project\the end\connect 4 project\connect 4 project\obj\Debug\connect 4 project.csproj.SuggestedBindingRedirects.cache
+E:\connect 4 project\the end\connect 4 project\connect 4 project\obj\Debug\connect_4_project.Form1.resources
+E:\connect 4 project\the end\connect 4 project\connect 4 project\obj\Debug\connect_4_project.Properties.Resources.resources
+E:\connect 4 project\the end\connect 4 project\connect 4 project\obj\Debug\connect 4 project.csproj.GenerateResource.cache
+E:\connect 4 project\the end\connect 4 project\connect 4 project\obj\Debug\connect 4 project.csproj.CoreCompileInputs.cache
+E:\connect 4 project\the end\connect 4 project\connect 4 project\obj\Debug\connect 4 project.exe
+E:\connect 4 project\the end\connect 4 project\connect 4 project\obj\Debug\connect 4 project.pdb
+E:\connect 4 project\the end\connect 4 project\connect 4 project\bin\Debug\connect 4 project.exe.config
+E:\connect 4 project\the end\connect 4 project\connect 4 project\bin\Debug\connect 4 project.exe
+E:\connect 4 project\the end\connect 4 project\connect 4 project\bin\Debug\connect 4 project.pdb
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\bin\Debug\connect 4 project.exe.config
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\bin\Debug\connect 4 project.exe
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\bin\Debug\connect 4 project.pdb
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\obj\Debug\connect 4 project.csproj.AssemblyReference.cache
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\obj\Debug\connect 4 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\obj\Debug\connect_4_project.Form1.resources
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\obj\Debug\connect_4_project.Properties.Resources.resources
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\obj\Debug\connect 4 project.csproj.GenerateResource.cache
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\obj\Debug\connect 4 project.csproj.CoreCompileInputs.cache
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\obj\Debug\connect 4 project.exe
+C:\Users\FreeComp\Downloads\Connect4\connect 4 project\obj\Debug\connect 4 project.pdb
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\bin\Debug\connect 4 project.exe.config
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\bin\Debug\connect 4 project.exe
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\bin\Debug\connect 4 project.pdb
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\obj\Debug\connect 4 project.csproj.AssemblyReference.cache
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\obj\Debug\connect 4 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\obj\Debug\connect_4_project.Form1.resources
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\obj\Debug\connect_4_project.Properties.Resources.resources
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\obj\Debug\connect 4 project.csproj.GenerateResource.cache
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\obj\Debug\connect 4 project.csproj.CoreCompileInputs.cache
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\obj\Debug\connect 4 project.exe
+C:\Users\Kimo Store\Downloads\CONNECT4 {G4}\connect 4 project\obj\Debug\connect 4 project.pdb
